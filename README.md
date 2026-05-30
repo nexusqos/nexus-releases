@@ -1,15 +1,15 @@
 # Nexus Releases
 
-Public download host for [Nexus](https://nexusqos.com) installers. Code lives in private repos; only the built binaries land here.
+Public download host for [Nexus](https://hellonexus.com) installers. Code lives in private repos; only the built binaries land here.
 
 ## Latest
 
 | Platform | Stable URL |
 |---|---|
-| Windows | https://github.com/nexusqos/nexus-releases/releases/latest/download/Nexus-Setup.exe |
-| macOS (Apple Silicon) | https://github.com/nexusqos/nexus-releases/releases/latest/download/Nexus.dmg |
+| Windows | https://github.com/hello-nexus/nexus-releases/releases/latest/download/Nexus-Setup.exe |
+| macOS (Apple Silicon) | https://github.com/hello-nexus/nexus-releases/releases/latest/download/Nexus.dmg |
 
-Or visit https://nexusqos.com/download to grab the right installer for your OS automatically.
+Or visit https://hellonexus.com/download to grab the right installer for your OS automatically.
 
 ## Versioning
 
